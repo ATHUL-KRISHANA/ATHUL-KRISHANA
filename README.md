@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://via.placeholder.com/150" alt="Your Profile Picture" width="150" style="border-radius:50%;">
+
   <h1>Hi, I'm Athul! 👋</h1>
   <p>
     A passionate <b>Data Scientist</b> transforming data into actionable insights and building intelligent solutions.
@@ -55,7 +54,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/athul77"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:athulpadiyath@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://leetcode.com/athulkrishna-77"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/athulpadiyath"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+
 </p>
 
 ---
